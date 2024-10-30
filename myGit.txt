@@ -1,0 +1,2 @@
+Learning git, this is my first git tutor
+im editing this file because i want to learn the git and unix commands 
