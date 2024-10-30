@@ -24,3 +24,14 @@ class C
 
 }
 
+
+class D
+{
+
+       void fly()
+   {      
+
+         System.out.println("im in fly");
+   }
+
+}
