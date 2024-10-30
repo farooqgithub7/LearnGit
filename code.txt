@@ -2,6 +2,15 @@ class A
 {
 public static void main(String[] args)
    {
-      System.out.println("im in the main method");
+         System.out.println("im in the main method");
    }
 }
+class B
+{
+   void disp()
+   {
+      System.out.println("im in B class methos");
+
+   }
+}
+
