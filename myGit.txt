@@ -1,9 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Learning git, this is my first git tutor
-im editing this file because i want to learn the git and unix commands 
+im editing this file because i want to learn the git and unix commands
+Learning git, this is my first git tutor
+im in the dev branch 
+>>>>>>> 8239471273edaf926dbdb0cd1f56dca08661fd39
 =======
 Learning git, this is my first git tutor
-
-
-im in the dev branch 
 >>>>>>> 8239471273edaf926dbdb0cd1f56dca08661fd39
