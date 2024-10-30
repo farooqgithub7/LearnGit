@@ -14,3 +14,13 @@ class B
    }
 }
 
+class C 
+{
+       void run()
+   {      
+
+         System.out.println("im in run");
+   }
+
+}
+
